@@ -19,7 +19,9 @@ There will be future improvements including:
 - New technologies  
 - Backend development for the website
 
-##🔗 Tech Way Website :
-https://malakcodes.github.io/techway/
+## 🔗 Tech Way Website
+[https://malakcodes.github.io/techway/](https://malakcodes.github.io/techway/)
 
-Thank you for checking out my project! 
+---
+
+Thank you for checking out my project! 🤍
